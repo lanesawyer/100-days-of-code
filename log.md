@@ -6,4 +6,4 @@
 
 **Thoughts:** I'm starting to really like React. I'm not doing everything "right" at the moment, but getting things to show up and change with Firebase integration is pretty sweet.
 
-**Link to work:** Pending
+**Link to work:** [My Repo](https://github.com/lanesawyer/52-things)
