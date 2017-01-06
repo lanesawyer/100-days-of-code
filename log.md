@@ -15,3 +15,11 @@
 **Thoughts:** Again, my code is a mess, but I'm really enjoying React. In the next few days I'll do some refactoring and get it into a more presentable form.
 
 **Link to work:** [My Repo](https://github.com/lanesawyer/52-things)
+
+### Day 3-5: January 5, 2017
+
+**Today's Progress**: I've done a lot without updating the log. Refactored and added some services to make reading from Firebase easier.
+
+**Thoughts:** I'm having a lot of fun working on this! It's a good little app to help me learn about React and Node.js.
+
+**Link to work:** [My Repo](https://github.com/lanesawyer/52-things)
