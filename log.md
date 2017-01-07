@@ -23,3 +23,11 @@
 **Thoughts:** I'm having a lot of fun working on this! It's a good little app to help me learn about React and Node.js.
 
 **Link to work:** [My Repo](https://github.com/lanesawyer/52-things)
+
+### Day 6: January 6, 2017
+
+**Today's Progress**: I made an authorization service to encapsulate getting a user (since it was living in my ThingService). Also added some checks to my forms to not submit when empty. Finally, I made it so that all the categories work, plus you can add new ones!
+
+**Thoughts:** I'm getting a better grip on ES6 and how all that works. My services are looking pretty good. Next step is to pretty it up, add some drag and drop capabilities, and refactor my Firebase React components to be classes instead of CreateElement.
+
+**Link to work:** [My Repo](https://github.com/lanesawyer/52-things)
