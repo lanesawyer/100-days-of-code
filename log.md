@@ -31,3 +31,11 @@
 **Thoughts:** I'm getting a better grip on ES6 and how all that works. My services are looking pretty good. Next step is to pretty it up, add some drag and drop capabilities, and refactor my Firebase React components to be classes instead of CreateElement.
 
 **Link to work:** [My Repo](https://github.com/lanesawyer/52-things)
+
+### Day 7: January 7, 2017
+
+**Today's Progress**: Did some styling and made it so you scroll sideways if you have enough categories to warrent it. Started looking into drag and drop a littl too.
+
+**Thoughts:** Tomorrow I might write a bunch of unit tests. I haven't tried testing it at all yet. It's coming along though! I need to play with the CSS to get the scrolling and heights and everything to work correctly.
+
+**Link to work:** [My Repo](https://github.com/lanesawyer/52-things)
