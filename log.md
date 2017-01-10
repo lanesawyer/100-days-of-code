@@ -39,3 +39,11 @@
 **Thoughts:** Tomorrow I might write a bunch of unit tests. I haven't tried testing it at all yet. It's coming along though! I need to play with the CSS to get the scrolling and heights and everything to work correctly.
 
 **Link to work:** [My Repo](https://github.com/lanesawyer/52-things)
+
+### Day 8-9: January 8-9, 2017
+
+**Today's Progress**: Not sure what I did yesterday, but today was starting on trying to get the counter to work.
+
+**Thoughts:** Not much.
+
+**Link to work:** [My Repo](https://github.com/lanesawyer/52-things)
