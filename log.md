@@ -47,3 +47,11 @@
 **Thoughts:** Not much.
 
 **Link to work:** [My Repo](https://github.com/lanesawyer/52-things)
+
+### Day 10-11: January 10-11, 2017
+
+**Today's Progress**: I always forget to update this every day. Yesterday was adding in Font Awesome, got the counter working, and added "order" to new categories when they're created. Today I added a service worker!
+
+**Thoughts:** I got stuck on adding the service worker simply because the service worker has a different lifecycle. I had to do a hard refresh on the page to get it working and I just never tried it. Finally got it working though, even though I feel like an idiot haha
+
+**Link to work:** [My Repo](https://github.com/lanesawyer/52-things)
