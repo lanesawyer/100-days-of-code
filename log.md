@@ -55,3 +55,11 @@
 **Thoughts:** I got stuck on adding the service worker simply because the service worker has a different lifecycle. I had to do a hard refresh on the page to get it working and I just never tried it. Finally got it working though, even though I feel like an idiot haha
 
 **Link to work:** [My Repo](https://github.com/lanesawyer/52-things)
+
+### Day 12: January 12, 2017
+
+**Today's Progress**: Made the site a little bit prettier (although it still has miles to go) and got the display name on the user sign up screen.
+
+**Thoughts:** I'm not really sure how I'm going to use Firebase with the service worker yet. That'll be fun to figure out! Firebase is about always-on connectivity, so getting in the middle of that to do caching will be interesting.
+
+**Link to work:** [My Repo](https://github.com/lanesawyer/52-things)
