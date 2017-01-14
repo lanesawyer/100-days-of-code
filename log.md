@@ -63,3 +63,11 @@
 **Thoughts:** I'm not really sure how I'm going to use Firebase with the service worker yet. That'll be fun to figure out! Firebase is about always-on connectivity, so getting in the middle of that to do caching will be interesting.
 
 **Link to work:** [My Repo](https://github.com/lanesawyer/52-things)
+
+### Day 13: January 14, 2017
+
+**Today's Progress**: I missed yesterday due to a long day of work, but I'm back at it today! I added a counting service and changed the look and feel a little bit.
+
+**Thoughts:** It's starting to take shape! I still have a few pieces of logic I have to implement to keep all the counts and everything in sync, but that won't be hard.
+
+**Link to work:** [My Repo](https://github.com/lanesawyer/52-things)
