@@ -71,3 +71,11 @@
 **Thoughts:** It's starting to take shape! I still have a few pieces of logic I have to implement to keep all the counts and everything in sync, but that won't be hard.
 
 **Link to work:** [My Repo](https://github.com/lanesawyer/52-things)
+
+### Day 14: January 20, 2017
+
+**Today's Progress**: Missed a lot of days due to traveling for work last week. Today I added a little more logic to get closer to having tasks get deleting when its category is removed. I should check if Firebase can do this stuff automatically.
+
+**Thoughts:** It's good to get back to coding in the evenings. I'm enjoying creating this little app!
+
+**Link to work:** [My Repo](https://github.com/lanesawyer/52-things)
