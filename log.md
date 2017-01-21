@@ -79,3 +79,11 @@
 **Thoughts:** It's good to get back to coding in the evenings. I'm enjoying creating this little app!
 
 **Link to work:** [My Repo](https://github.com/lanesawyer/52-things)
+
+### Day 15: January 21, 2017
+
+**Today's Progress**: Fixed a bug with counting categories and things when a category is deleted.
+
+**Thoughts:** I need to write down exactly what I want to add to the site so I have more direction on future days.
+
+**Link to work:** [My Repo](https://github.com/lanesawyer/52-things)
