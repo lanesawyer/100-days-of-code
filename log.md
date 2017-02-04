@@ -87,3 +87,11 @@
 **Thoughts:** I need to write down exactly what I want to add to the site so I have more direction on future days.
 
 **Link to work:** [My Repo](https://github.com/lanesawyer/52-things)
+
+### Day 16: February 4, 2017
+
+**Today's Progress**: I created a React Native DnD character application and started working on that.
+
+**Thoughts:** React Native was super easy to set up! This will be a fun little experiment.
+
+**Link to work:** Don't have a repository for it yet.
